@@ -59,7 +59,7 @@ header {
   
   header .cafe {
   background-image: url(../images/header.jpg);
-  background-position: center top;
+  background-position: center center;
   background-repeat: no-repeat;
   height: 500px;
   -moz-background-size:contain;
@@ -141,7 +141,7 @@ header {
     background-repeat: no-repeat;
     height: 250px;
     -moz-background-size:contain;
-    background-size:contain; 
+    background-size:cover; 
   }
 
   header .title{
